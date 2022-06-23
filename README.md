@@ -38,7 +38,11 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 '''pipenv install'''
-
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 
 
