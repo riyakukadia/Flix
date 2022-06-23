@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-
+'''pipenv install'''
 
 
 
